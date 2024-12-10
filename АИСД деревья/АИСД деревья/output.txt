@@ -1,0 +1,7 @@
+x = 55
+count_x = 1
+sum = 641
+hight = 8
+count_ver = 4
+rood's leaves: 0 3 11 19 38 55 72 
+is_equal: 1
